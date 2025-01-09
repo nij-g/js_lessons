@@ -1,2 +1,2 @@
-# js_lessons
+# JavaScript Lessons
 Basics of Javascript
